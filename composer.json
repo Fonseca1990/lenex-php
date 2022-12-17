@@ -1,11 +1,15 @@
 {
-  "name": "leonverschuren/lenex",
+  "name": "alttab/lenex",
   "type": "library",
   "description": "Swimranking Lenex file format parser",
   "authors": [
     {
       "name": "Leon Verschuren",
       "email": "lverschuren@hotmail.com"
+    },
+    {
+      "name": "Diogo Fonseca",
+      "email": "diogo.g.fonseca@gmail.com"
     }
   ],
   "license": "MIT",
@@ -18,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "leonverschuren\\Lenex\\": "src/"
+      "alttab\\Lenex\\": "src/"
     }
   },
   "scripts": {
