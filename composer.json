@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "alttab\\Lenex\\": "src/"
+      "leonverschuren\\Lenex\\": "src/"
     }
   },
   "scripts": {
